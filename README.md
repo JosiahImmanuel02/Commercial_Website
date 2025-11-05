@@ -52,7 +52,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ## HTML
-``
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -292,9 +292,10 @@ footer .social-media a:hover {
 
 ## OUTPUT
 
-![WhatsApp Image 2025-11-05 at 08 53 49_8c8ede70](https://github.com/user-attachments/assets/e4fc4de8-1daf-44b2-834e-b11fc81f373b)
+![WhatsApp Image 2025-11-05 at 08 53 48_d05d15cc](https://github.com/user-attachments/assets/3b9794b4-3c87-4cda-b54f-82683c356389)
 
-![WhatsApp Image 2025-11-05 at 08 53 48_8590644f](https://github.com/user-attachments/assets/ff38e28e-46ff-4dc6-b5e3-2875960492ae)
+![WhatsApp Image 2025-11-05 at 08 53 49_3731bfc1](https://github.com/user-attachments/assets/8ecc7eb2-81d9-46b9-98ab-4ad32d1ee3a5)
+
 
 
 
